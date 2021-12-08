@@ -12,7 +12,7 @@ export class AppComponent {
   }
 }
 
-// Create Array In Eternal JavaScript File ( dont need to export )
+// Create Array In External JavaScript File ( dont need to export )
 // Place path in angular.json > script
 // delcare const in component
 // test call in function
